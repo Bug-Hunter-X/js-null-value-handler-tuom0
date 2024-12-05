@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to null value handling in JavaScript. The `foo` function adds two numbers but exhibits unexpected behavior when one or both inputs are null.  The bug.js file contains the buggy code, while bugSolution.js shows how to correctly handle null inputs.
